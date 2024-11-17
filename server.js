@@ -29,7 +29,7 @@ connection.connect((error) => {
         console.log("Mysql Connection Success");
     }
 })
-
+// URL: https://travelix-backend-8q0g.onrender.com/api/destination/add
 // URL: http://localhost:4000/api/destination/add
 // Payload:
 // {
